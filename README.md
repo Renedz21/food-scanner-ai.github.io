@@ -2,7 +2,7 @@
 
 **Última actualización:** 22 de septiembre de 2025
 
-Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información de los usuarios de la aplicación *Food AI Caption*.
+Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información de los usuarios de la aplicación *Food Scanner AI*.
 
 ## 1. Información que recopilamos
 Al utilizar la aplicación, podemos recopilar la siguiente información:
@@ -33,4 +33,4 @@ El usuario puede:
 Podemos actualizar esta Política de Privacidad en cualquier momento. Los cambios se publicarán en esta página o dentro de la aplicación. La fecha de "Última actualización" se modificará cuando se realicen cambios relevantes.
 
 ## 7. Contacto
-Para consultas o solicitudes relacionadas con la privacidad y los datos personales, escríbenos a: `tu-email@dominio.com`
+Para consultas o solicitudes relacionadas con la privacidad y los datos personales, escríbenos a: `edzonperez.castillo@gmail.com`
